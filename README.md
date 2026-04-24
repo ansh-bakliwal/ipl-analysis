@@ -110,6 +110,4 @@ ipl-analysis/
 💻 [GitHub](https://github.com/ansh-bakliwal)
 
 ---
-
-*Open to work — Junior Data Scientist & Data Analyst roles in Pune / Mumbai*
 ---
